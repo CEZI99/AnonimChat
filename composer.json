@@ -1,9 +1,9 @@
 {
     "repositories": [
-        {"type": "composer", "url": "https://amocrm.repo.rhainulin-494"}
+        {"type": "composer", "url": "https://amocrm.repo.rhainulin-494"},
+        {"packagist": false}
+        
     ],
     
-    "name": "amocrm/anonimchat",
-    "require": {}
-
+    "name": "amocrm/anonimchat"
 }
