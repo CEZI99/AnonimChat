@@ -1,6 +1,6 @@
 {
     "repositories": [
-        {"type": "composer", "url": "https://amocrm.repo.rhainulin-494"},
+        {"type": "composer", "url": "https://amocrm.repo.localhost"},
         {"packagist": false}
         
     ],
