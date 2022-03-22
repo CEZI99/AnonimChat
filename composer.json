@@ -1,6 +1,6 @@
 {
     "repositories": [
-        {"type": "composer", "url": "https://amocrm.repo.localhost"},
+        {"type": "composer"},
         {"packagist": false}
         
     ],
